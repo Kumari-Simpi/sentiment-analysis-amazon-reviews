@@ -11,3 +11,12 @@ __pycache__/
 
 # Environment
 .env
+.idea/
+.lightning_studio/
+.vscode/
+.vscode-server
+.windsurf-server
+.cursor-server
+streamlit_templates/
+nltk_data/
+main.py
